@@ -1,0 +1,73 @@
+[
+  {
+    "author": {
+      "id": "cl6z09o887j750bnz6ttkuycv",
+      "name": "Dhawan Solanki"
+    },
+    "category": {
+      "id": "cl6z0hotz7joo0bnz4q5kh4jd",
+      "name": "Test1"
+    },
+    "id": "cl6z0es9r7jfj0bnzeyx2g4uk",
+    "content": "What are dApps? How they are different from normal apps?\nHave you heard of decentralized applications, often known as dApps? They're definitely one of the most important concepts in the blockchain ecosystem, but they're not something that everyone has heard of. There are numerous myths surrounding dApps, and from a technical standpoint, they are vastly different from your typical app. Let's figure out exactly what dApps are.\n\nLet's get started\nWhat are dApps?\ndApps are blockchain-powered applications. They are a new way of starting a business, and you do not need to rely on the government or any middlemen to acquire clearance for your venture. Even a 10-year-old can start a business without any problems. You may wonder how someone can put their trust in a company that has not been approved by the government. To find the answer, you must first understand how blockchain works: For that, you can read this article: What is Blockchain? How does it work? Why do we need it?.\n\nThree things that make dApps different from a normal app\n1. Open Source All the code will be Open Source means anyone can access the source code which increases trust. Any updates or feature additions will be decided by user and developer consensus.",
+    "createdAt": "2022-08-18T12:19:05.989861+00:00",
+    "description": "What are dApps? How they are different from normal apps?\ndApps are blockchain-powered applications. They are a new way of starting a business.",
+    "customPublicationDate": "2022-08-20",
+    "excerpt": "What are dApps? How they are different from normal apps?\ndApps are blockchain-powered applications. They are a new way of starting a business.",
+    "featuredPost": true,
+    "featuredImage": null,
+    "slug": "what-are-dapps-how-they-are-different-from-normal-apps",
+    "tags": [
+      "appdev"
+    ],
+    "title": "What are dApps? How they are different from normal apps?",
+    "updatedAt": "2022-08-20T09:09:55.826426+00:00"
+  },
+  {
+    "author": {
+      "id": "cl6z09o887j750bnz6ttkuycv",
+      "name": "Dhawan Solanki"
+    },
+    "category": {
+      "id": "cl6z2jtpm01fo0cobb70nt096",
+      "name": "Test2"
+    },
+    "id": "cl70g9xes1ofw0bo8p68lc8le",
+    "content": "Testing New Post Testing New Post Testing New Post Testing New Post ",
+    "createdAt": "2022-08-19T12:30:59.424297+00:00",
+    "description": "Testing New Post Testing New Post Testing New Post Testing New Post Testing New Post Testing New Post Testing New Post Testing New Post Testing New Post ",
+    "customPublicationDate": "2022-08-20",
+    "excerpt": "Testing New Post Testing New Post Testing New Post Testing New Post Testing New Post Testing New Post Testing New Post ",
+    "featuredPost": false,
+    "featuredImage": null,
+    "slug": "testing-new-post-testing-new-post-testing-new-post",
+    "tags": [
+      "beginners",
+      "automation"
+    ],
+    "title": "Testing New Post  Testing New Post Testing New Post ",
+    "updatedAt": "2022-08-20T09:20:04.007121+00:00"
+  },
+  {
+    "author": {
+      "id": "cl6z09o887j750bnz6ttkuycv",
+      "name": "Dhawan Solanki"
+    },
+    "category": {
+      "id": "cl6z2k2wx00i40bpbg7z6syfr",
+      "name": "Test3"
+    },
+    "id": "cl71t1u7s2tbq0bo8afs7tj4q",
+    "content": "Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3",
+    "createdAt": "2022-08-20T11:16:23.220328+00:00",
+    "description": "Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3                ",
+    "customPublicationDate": "2022-08-08",
+    "excerpt": "Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3",
+    "featuredPost": false,
+    "featuredImage": null,
+    "slug": "post-3-post-3-post-3-post-3-post-3-post-3-post-3-post-3",
+    "tags": [],
+    "title": "Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3 Post 3",
+    "updatedAt": "2022-08-20T11:16:23.220328+00:00"
+  }
+]
